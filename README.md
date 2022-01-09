@@ -1,4 +1,4 @@
-# Jekyll Mundana Forestry starter
+# Lost in Saigon Jekyll Themes
 
 Theme designed and developed by [wowthemes](https://github.com/wowthemesnet/mundana-theme-jekyll),
 
